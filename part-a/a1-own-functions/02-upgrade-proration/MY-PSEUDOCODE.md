@@ -1,0 +1,11 @@
+# My Pseudocode
+
+FUNCTION name
+
+INPUTS:
+
+OUTPUT:
+
+SIDE EFFECTS:
+
+FAILS WHEN:
