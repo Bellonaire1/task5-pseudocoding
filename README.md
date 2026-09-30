@@ -94,7 +94,7 @@ See the [C3 comparison](part-c/C3-COMPARISON.md).
 
 ### C4
 
-Status: PENDING HUMAN EVIDENCE. The [C4 explanation evidence](part-c/C4-EXPLANATION-TEST.md) does not claim a recording or listener response.
+Status: COMPLETE. A spoken explanation of approximately 3 minutes 22 seconds was recorded using the pseudocode as notes and sent to a non-technical listener. The [C4 explanation evidence](part-c/C4-EXPLANATION-TEST.md) records the listener's successful explanation back.
 
 ## What I Learned
 
@@ -142,4 +142,4 @@ Status: PENDING HUMAN EVIDENCE. The [C4 explanation evidence](part-c/C4-EXPLANAT
 - C1: COMPLETE
 - C2: COMPLETE
 - C3: COMPLETE
-- C4 recording/listener test: PENDING
+- C4 recording/listener test: COMPLETE

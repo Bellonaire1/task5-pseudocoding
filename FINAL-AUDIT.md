@@ -24,8 +24,8 @@ This audit records the repository state without fabricating completion of human 
 | C2 reverse-engineering performed blind | PASS | C2 evidence was created before the B1 comparison. |
 | C2 difference table | PASS | `part-c/DIFFERENCE-TABLE.md` is committed. |
 | C3 ten-input comparison | PASS | `part-c/C3-COMPARISON.md` records all ten cases. |
-| C4 <=5 minute recording | PENDING | Recording remains `PENDING USER RECORDING`. |
-| C4 nontechnical listener explanation | PENDING | Listener and response remain `PENDING`. |
+| C4 <=5 minute recording | COMPLETE | Spoken explanation recorded; duration approximately 3 minutes 22 seconds. |
+| C4 nontechnical listener explanation | COMPLETE | Non-technical listener successfully explained the feature back. |
 | README | PASS | This README documents the process, evidence, and status. |
 | Repository clean | PASS | `git status --short` was clean before this documentation change; it will be rechecked after commit. |
 | Evidence files present | PASS | Expected Part A, Part B, and Part C evidence files are present. |
@@ -37,5 +37,5 @@ No `.env` files were found. The project does not require environment variables f
 ## Final Status
 
 - B2 without AI: DEVIATION
-- C4 recording: PENDING
-- C4 listener: PENDING
+- C4 recording: COMPLETE
+- C4 listener: COMPLETE
